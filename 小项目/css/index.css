@@ -1,0 +1,56 @@
+#div_up{
+    width: 101%;
+    height: 10%;
+    background-color: rgba(30, 34, 29, 0.35);
+    border-radius: 15px;
+    margin: 0;
+    padding: 0;
+    margin-top: -8px;
+    margin-left: -8px ;
+}
+
+
+.class_td{
+    width: 10%;
+    height: 100%;
+    font-size: 25px;
+    color: white;
+}
+
+#up_text{
+    width: 15%;
+    height: 100%;
+    font-size: 35px;
+    color: white;
+}
+
+.blank{
+    width: 800px;
+}
+
+body{
+    background-image: url(../img/88450543_p0_master1200_upscayl_5x_realesrgan-x4plus.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+
+#table_below{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

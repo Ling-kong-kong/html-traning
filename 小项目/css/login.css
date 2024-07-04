@@ -1,0 +1,49 @@
+body{
+    background-image: url("../img/80230341_p7_upscayl_4x_realesrgan-x4plus.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div_id_all {
+    width: 400px;
+    height: 200px;
+    background-color: rgba(24, 15, 24,0.4);
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 250px;
+    padding: 30px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.35);
+    opacity: 0.9;
+}    
+button{
+    background-color: rgba(24, 15, 24, 0);
+    border: 0px;
+}
+.div_text{
+    color: rgb(255, 255, 255);
+    font-family: "微软雅黑";
+    font-size: 20px;
+    
+}
+.div_input{
+    width: 200px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.35);
+    background-color: rgba(24, 15, 24, 0.4);
+    color: white;
+}
+
+#submit_id_1{
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.35);
+    background-color: rgba(241, 225, 241, 0.4) ;
+    color: white;
+}
+
+#button_id_1{
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.35);
+    background-color: rgba(24, 15, 24, 0.4);
+    color: white;
+}
